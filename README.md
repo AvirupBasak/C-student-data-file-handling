@@ -1,4 +1,4 @@
-Student Data Management in C
+#Student Data Management in C
 This is a simple C program to store and display student data (Name, Roll, CGPA) and save it into a file (Studentdata.txt).
 It demonstrates the use of file handling, string input using fgets, and removing the newline character from user input.
 
